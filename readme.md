@@ -1,5 +1,5 @@
 ## Preview URL
 
-1. https://minhaj57sorder.github.io/demo-preview-animation/example-1
+1. https://minhaj57sorder.github.io/rocket-landing/example-1
 
-2. https://minhaj57sorder.github.io/demo-preview-animation/example-2
+2. https://minhaj57sorder.github.io/rocket-landing/example-2
